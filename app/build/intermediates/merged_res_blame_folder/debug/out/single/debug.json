@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "edu.up.cs301.game.app-main-7:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/drawable-xhdpi_face6.png.flat",
+        "source": "edu.up.cs301.game.app-main-7:/drawable-xhdpi/face6.png"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/layout_game_no_gui.xml.flat",
+        "source": "edu.up.cs301.game.app-main-7:/layout/game_no_gui.xml"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/layout_game_local_tab.xml.flat",
+        "source": "edu.up.cs301.game.app-main-7:/layout/game_local_tab.xml"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/layout_game_remote_tab.xml.flat",
+        "source": "edu.up.cs301.game.app-main-7:/layout/game_remote_tab.xml"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/drawable-mdpi_ic_action_search.png.flat",
+        "source": "edu.up.cs301.game.app-main-7:/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/layout_game_player_list_row.xml.flat",
+        "source": "edu.up.cs301.game.app-main-7:/layout/game_player_list_row.xml"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "edu.up.cs301.game.app-main-7:/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/menu_game_main.xml.flat",
+        "source": "edu.up.cs301.game.app-main-7:/menu/game_main.xml"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/layout_game_config_main.xml.flat",
+        "source": "edu.up.cs301.game.app-main-7:/layout/game_config_main.xml"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/drawable-hdpi_purple_delete_button.png.flat",
+        "source": "edu.up.cs301.game.app-main-7:/drawable-hdpi/purple_delete_button.png"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/drawable-xhdpi_face5.png.flat",
+        "source": "edu.up.cs301.game.app-main-7:/drawable-xhdpi/face5.png"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/drawable-xhdpi_face2.png.flat",
+        "source": "edu.up.cs301.game.app-main-7:/drawable-xhdpi/face2.png"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/drawable-xhdpi_face1.png.flat",
+        "source": "edu.up.cs301.game.app-main-7:/drawable-xhdpi/face1.png"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/drawable-hdpi_ic_action_search.png.flat",
+        "source": "edu.up.cs301.game.app-main-7:/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/drawable-xhdpi_face4.png.flat",
+        "source": "edu.up.cs301.game.app-main-7:/drawable-xhdpi/face4.png"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/layout_pig_layout.xml.flat",
+        "source": "edu.up.cs301.game.app-main-7:/layout/pig_layout.xml"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "edu.up.cs301.game.app-main-7:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/layout_game_config_tabhost.xml.flat",
+        "source": "edu.up.cs301.game.app-main-7:/layout/game_config_tabhost.xml"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/drawable-xhdpi_face3.png.flat",
+        "source": "edu.up.cs301.game.app-main-7:/drawable-xhdpi/face3.png"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "edu.up.cs301.game.app-main-7:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "edu.up.cs301.game.app-merged_res-5:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "edu.up.cs301.game.app-main-7:/drawable-xhdpi/ic_launcher.png"
+    }
+]

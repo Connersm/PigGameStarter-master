@@ -1,0 +1,8 @@
+edu.up.cs301.game.app-pngs-0 /Users/konnaa/AndroidStudioProjects/PigGameStarter-master/app/build/generated/res/pngs/debug
+edu.up.cs301.game.app-resValues-1 /Users/konnaa/AndroidStudioProjects/PigGameStarter-master/app/build/generated/res/resValues/debug
+edu.up.cs301.game.app-rs-2 /Users/konnaa/AndroidStudioProjects/PigGameStarter-master/app/build/generated/res/rs/debug
+edu.up.cs301.game.app-mergeDebugResources-3 /Users/konnaa/AndroidStudioProjects/PigGameStarter-master/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+edu.up.cs301.game.app-mergeDebugResources-4 /Users/konnaa/AndroidStudioProjects/PigGameStarter-master/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+edu.up.cs301.game.app-merged_res-5 /Users/konnaa/AndroidStudioProjects/PigGameStarter-master/app/build/intermediates/merged_res/debug
+edu.up.cs301.game.app-debug-6 /Users/konnaa/AndroidStudioProjects/PigGameStarter-master/app/src/debug/res
+edu.up.cs301.game.app-main-7 /Users/konnaa/AndroidStudioProjects/PigGameStarter-master/app/src/main/res
